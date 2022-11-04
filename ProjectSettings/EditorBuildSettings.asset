@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/playGameScene.unity
+    guid: ea263dc6515f54047aab44bfc7a22591
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: bc2c66e068d684778985561e82451b83
+  - enabled: 1
+    path: Assets/Scenes/viewAttackScene.unity
+    guid: 84bede902745e4b0c984076359d75abf
+  - enabled: 1
+    path: Assets/Scenes/ImageTracking.unity
+    guid: a70d1ba4f515643c283cc8799c7cddaf
+  - enabled: 1
+    path: Assets/Scenes/LearnScene.unity
+    guid: 656d202f4e1f54bf88870576e5c0a321
+  - enabled: 1
+    path: Assets/Scenes/WallDefender2Scene.unity
+    guid: ea1fe95f9b1964154bbe5c7f52afdd3f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/WallDefenderScene.unity
+    guid: 1d28e6b4211934bce922fd6bd6fbb30a
+  - enabled: 1
+    path: Assets/Scenes/rewardScene.unity
+    guid: de40e5953e047496099f2dbcf18a5058
+  - enabled: 0
+    path: Assets/Scenes/animationAttackScene.unity
+    guid: 3455ab0a57add4e4bb90956c0c81727b
+  - enabled: 0
+    path: Assets/Scenes/TestingAnimationScene.unity
+    guid: 71781c527e2ee4859bc747622be9ac2a
+  - enabled: 0
+    path: Assets/Scenes/AnimScene.unity
+    guid: 9d2ef275cc19f4359a5d709b072ce4b2
+  - enabled: 1
+    path: Assets/Scenes/TestAnim.unity
+    guid: 03f82b9f2af5544639a65ec3f326b6f7
+  - enabled: 1
+    path: Assets/Scenes/RedCircleScene.unity
+    guid: c4f42947e861044c5a79f4129a240f7b
+  - enabled: 1
+    path: Assets/Scenes/letterScene.unity
+    guid: 467e866071b324402b04ca86876a9a19
+  - enabled: 1
+    path: Assets/Scenes/levelScene.unity
+    guid: 86144035f9d6d43afbd7960ebdfc5b8d
+  - enabled: 1
+    path: Assets/Scenes/DefenderGuessScene.unity
+    guid: 6ac16712287f8425f97eed3d30d9f04b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9d12d2afd4bd24e8180e8d102cdedeef, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4bb9af792421549d0a0d925b4ab1288a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cab05c72b910843f78b424575278f110, type: 2}
